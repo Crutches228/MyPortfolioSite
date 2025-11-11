@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://crutches228.github.io/MyPortfolioSite/sitemap.xml
